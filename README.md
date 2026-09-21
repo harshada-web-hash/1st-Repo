@@ -1,7 +1,7 @@
 # 1st-Repo
 This is my 1st Repository.
 <br>
-Author-Harshada.
+Author-Harshada(Teen).
 <br>
 made for experimental purpose.
 <br>
